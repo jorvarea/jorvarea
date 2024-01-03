@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&email=hide&leet_logo=hide&login=jorvarea)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&email=hide&leet_logo=hide&login=jorvarea)](https://github.com/mohouyizme/1337-readme)
 
 <!--
 **jorvarea/jorvarea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
